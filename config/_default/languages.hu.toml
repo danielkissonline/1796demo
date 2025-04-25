@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "hu"
+languageName = "Magyar"
+weight = 1
+title = "Panyola 1796 Egyesület"
+
+[params]
+displayName = "HU"
+isoCode = "hu"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Panyola 1796 Egyesület logó.svg"
+
+[params.author]
+name = "Panyola 1796 Egyesület"

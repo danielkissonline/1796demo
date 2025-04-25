@@ -1,0 +1,60 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Rólunk"
+pageRef = "rolunk"
+weight = 20
+
+[[main]]
+name = "Szatmári..."
+weight = 30
+
+    [[main]]
+    name = "ételek"
+    parent = "Szatmári..."
+    pageRef = "szatmari-etelek"
+    weight = 10
+
+    [[main]]
+    name = "néprajz"
+    parent = "Szatmári..."
+    pageRef = "szatmari-neprajz"
+    weight = 20
+
+[[main]]
+name = "Táborok"
+weight = 30
+
+    [[main]]
+    name = "Fotós tábor"
+    parent = "Táborok"
+    weight = 10
+
+    [[main]]
+    name = "Olvasótábor"
+    parent = "Táborok"
+    weight = 20
+
+    [[main]]
+    name = "Kiégéstábor"
+    parent = "Táborok"
+    weight = 30
+
+[[main]]
+  name = "Mórucz-Kiss Klára ösztöndíjalap"
+  pageRef = "morucz-kiss-klara-osztöndijalap"
+  weight = 40
+
+[[main]]
+  name = "Kapcsolat"
+  pageRef = "kapcsolat"
+  weight = 50
+
+[[main]]
+  name = "1%"
+  pageRef = "egyszazalek"
+  weight = 60
+
+[[footer]]
+  none = "none"
