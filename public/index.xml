@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panyola 1796 Egyesület</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Panyola 1796 Egyesület</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>© 2025 Panyola 1796 Egyesület</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adatkezelési tájékoztatók</title>
+      <link>http://localhost:1313/adatkezelesi-tajekoztatok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/adatkezelesi-tajekoztatok/</guid>
+      <description>Megbeszélés szükséges!</description>
+      
+    </item>
+    
+    <item>
+      <title>Feltöltés alatt...</title>
+      <link>http://localhost:1313/feltoltes-alatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/feltoltes-alatt/</guid>
+      <description>Kérjük, látogasson vissza később!</description>
+      
+    </item>
+    
+    <item>
+      <title>Fotós táborok</title>
+      <link>http://localhost:1313/fotos-taborok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fotos-taborok/</guid>
+      <description>2025 # Jelentkezés 2024 # Hamarosan galéria További képek&amp;hellip;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kapcsolat</title>
+      <link>http://localhost:1313/kapcsolat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kapcsolat/</guid>
+      <description>Panyola 1796 Egyesület # 4913 Panyola, Veszprémi utca 73.</description>
+      
+    </item>
+    
+    <item>
+      <title>Rólunk</title>
+      <link>http://localhost:1313/rolunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/rolunk/</guid>
+      <description>Az egyesület bemutatása # Egyesületünket, több mint két évvel ezelőtt, a non-profit szektorban korábban már több éves tapasztalatot szerzett helyi civilek és a településünkért valamint a régióért tenni akaró elhivatott értelmiségiek hívták életre azzal a céllal, hogy a térségünkben évtizedek óta tapasztalható elvándorlást és elöregedési folyamatokra, a tartós munkanélküliségből és szegregációból fakadó problémákra hathatós megoldási példákkal szolgáljunk.</description>
+      
+    </item>
+    
+    <item>
+      <title>Támogassa Egyesületünket adójának 1%-ával!</title>
+      <link>http://localhost:1313/egyszazalek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/egyszazalek/</guid>
+      <description>Legyen értékmegőrző munkánk támogatója és támogassa a Mórucz-Kiss Klára Tehetséggondozó Ösztöndíj Program nyári gyerektáborait!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

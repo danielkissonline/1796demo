@@ -19,7 +19,7 @@ weight = 30
     [[main]]
     name = "néprajz"
     parent = "Szatmári..."
-    pageRef = "szatmari-neprajz"
+    pageRef = "feltoltes-alatt"
     weight = 20
 
 [[main]]
@@ -29,21 +29,24 @@ weight = 30
     [[main]]
     name = "Fotós tábor"
     parent = "Táborok"
+    pageRef = "fotos-taborok"
     weight = 10
 
     [[main]]
     name = "Olvasótábor"
     parent = "Táborok"
+    url = "https://fb.me/e/clLG0M4wk"
     weight = 20
 
     [[main]]
     name = "Kiégéstábor"
     parent = "Táborok"
+    pageRef = "feltoltes-alatt"
     weight = 30
 
 [[main]]
   name = "Mórucz-Kiss Klára ösztöndíjalap"
-  pageRef = "morucz-kiss-klara-osztöndijalap"
+  pageRef = "feltoltes-alatt"
   weight = 40
 
 [[main]]

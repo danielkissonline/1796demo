@@ -1,3 +1,4 @@
 ---
-title: Feltöltés alatt
----kérjük látogasson vissza később!
+title: Feltöltés alatt...
+---
+Kérjük, látogasson vissza később!
