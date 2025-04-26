@@ -28,14 +28,14 @@ code:
   copied: "Másolva"
 
 error:
-  404_title: "Az oldal nem található :confused:"
-  404_error: "404-es hiba"
+  404_title: "A kért oldal nem található..."
+  404_error: "(404-es hiba)"
   404_description: "Úgy tűnik a kért oldal nem található."
 
 footer:
   dark_appearance: "Váltás sötét megjelenésre"
   light_appearance: "Váltás világos megjelenésre"
-  powered_by: "Adatvédelem (link)"
+  powered_by: '<a href="/adatkezelesi-tajekoztatok">Adatkezelési tájékoztatók</a>'
 
 list:
   externalurl_title: "Link külső oldalra"
