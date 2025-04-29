@@ -17,18 +17,11 @@ html {
 
 .main-title .line1 {
     font-weight: bold;
-    font-size: clamp(3.2rem, 14vmin, 10rem);
-    line-height: clamp(1.7rem, 9vmin, 7rem);;
+    font-size: clamp(2.5rem, 14vmin, 10rem);
+    line-height: clamp(1rem, 9vmin, 7rem);;
 }
 
 .main-title .line2 {
     font-size: clamp(1rem, 3vmin, 2.5rem);
     line-height: clamp(1rem, 10vmin, 6rem);
-}
-
-.blurred-background{
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-
 }
