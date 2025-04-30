@@ -1,5 +1,6 @@
 ---
 title: Fotós táborok
+robots: A Panyola 1796 Egyesület által szervezett fotós táborok
 ---
 
 ## 2025
