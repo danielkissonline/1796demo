@@ -8,6 +8,9 @@ robots: A Panyola 1796 Egyesület által szervezett fotós táborok
 Csatlakozz a 4 napos fotós táborunkhoz, ahol profi oktatóval, lenyűgöző helyszíneken és gyönyörű modellekkel fejlesztheted tudásodat!  
 [(Facebook poszt)](https://www.facebook.com/Panyolium/posts/1423326918980792)
 
+<details>
+  <summary>Részletek</summary>
+
 #### Ki az oktató?
 ***Adam Von Mack:*** Brit-magyar portré-, híresség és divatfotós. Londonban él de a kedvünkért ellátogat Magyarországra, hogy átadhassa Neked tudását és a fotózásban szerzett tapasztalatait.
 
@@ -45,8 +48,7 @@ A bőséges étkezésekről a Panyolium gondoskodik, garantálva a helyi ízek �
 📩 További információkért írj nekünk: info@panyolium.hu  
 
 #### **Tedd emlékezetessé a nyarad – fotózz, tanulj és inspirálódj velünk!**
-
-<br>
+</details>
 
 ## 2024
 {{< gallery >}}
