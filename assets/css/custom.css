@@ -1,10 +1,10 @@
 @font-face {
-    font-family: EBGaramond-Regular;
-    src: url('/fonts/EBGaramond-Regular.ttf');
+    font-family: EBGaramond;
+    src: url('/fonts/EBGaramond-VariableFont_wght.ttf');
 }
 
 html {
-    font-family: EBGaramond-Regular;
+    font-family: EBGaramond;
     font-size: calc(100% + 3px);
 }
 
@@ -16,7 +16,7 @@ html {
 }
 
 .main-title .line1 {
-    font-weight: bold;
+    font-weight: 500;
     font-size: clamp(2.5rem, 14vmin, 10rem);
     line-height: clamp(1rem, 9vmin, 7rem);;
 }
