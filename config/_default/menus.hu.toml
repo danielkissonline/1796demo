@@ -8,12 +8,13 @@ weight = 20
 
 [[main]]
 name = "Szatmári..."
+pageRef = "szatmari/etelek"
 weight = 30
 
     [[main]]
     name = "ételek"
     parent = "Szatmári..."
-    pageRef = "feltoltes-alatt"
+    pageRef = "szatmari/etelek"
     weight = 10
 
     [[main]]
