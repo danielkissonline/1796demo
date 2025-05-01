@@ -5,6 +5,8 @@ description: A Panyola 1796 Egyesület által szervezett fotós táborok
 
 ## 2025
 
+![Fotós tábor 2025](/fotos-taborok/2025_fotos-tabor.jpg)
+
 Csatlakozz a 4 napos fotós táborunkhoz, ahol profi oktatóval, lenyűgöző helyszíneken és gyönyörű modellekkel fejlesztheted tudásodat!  
 [(Facebook poszt)](https://www.facebook.com/Panyolium/posts/1423326918980792)
 
