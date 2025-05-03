@@ -25,6 +25,7 @@ weight = 30
 
 [[main]]
 name = "Táborok"
+pageRef = "fotos-taborok"
 weight = 30
 
     [[main]]
