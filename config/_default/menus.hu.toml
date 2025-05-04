@@ -35,12 +35,6 @@ weight = 30
     weight = 10
 
     [[main]]
-    name = "Olvasótábor"
-    parent = "Táborok"
-    url = "https://fb.me/e/clLG0M4wk"
-    weight = 20
-
-    [[main]]
     name = "Kiégéstábor"
     parent = "Táborok"
     pageRef = "feltoltes-alatt"

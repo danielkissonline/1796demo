@@ -3,7 +3,7 @@ title: Fotós táborok
 description: A Panyola 1796 Egyesület által szervezett fotós táborok
 ---
 
-## 2025
+## **2025** - Adam Von Mack
 
 ![Fotós tábor 2025](/fotos-taborok/2025_fotos-tabor.jpg)
 
@@ -52,7 +52,7 @@ A bőséges étkezésekről a Panyolium gondoskodik, garantálva a helyi ízek �
 #### **Tedd emlékezetessé a nyarad – fotózz, tanulj és inspirálódj velünk!**
 </details>
 
-## 2024
+## **2024** - Schram András
 {{< gallery >}}
   <img src="/fotos-taborok/preview/2024/DZ0A1875.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/fotos-taborok/preview/2024/DZ0A2037.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -63,7 +63,7 @@ A bőséges étkezésekről a Panyolium gondoskodik, garantálva a helyi ízek �
 
 [További képek...](https://andrasschram.smugmug.com/PANYOLA-20/n-tbZz4H)
 
-## 2023
+## **2023** - Schram András
 {{< gallery >}}
   <img src="/fotos-taborok/preview/2023/DZ0A4138.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="/fotos-taborok/preview/2023/L1002881.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />

@@ -33,15 +33,15 @@ title: Szatmári ételek
 ## Lapcsánka
 ![Lapcsánka](/szatmari/etelek/lapcsanka/lapcsanka.jpg)
 
-## *Név hiányzik!*
+## Pucu
 {{< gallery >}}
-  <img src="nevhianyzik/nevhianyzik_2.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="nevhianyzik/nevhianyzik_1.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="nevhianyzik/nevhianyzik_3.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="nevhianyzik/nevhianyzik_4.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="nevhianyzik/nevhianyzik_5.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="nevhianyzik/nevhianyzik_6.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="nevhianyzik/nevhianyzik_7.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_2.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_1.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_3.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_4.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_5.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_6.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="pucu/pucu_7.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
 ## Sárgatúró
